@@ -46,7 +46,7 @@ func main() {
 		{"one", Cube1, sys.None},
 		{"two", NewModel, sys.Default},
 		{"three", shape3, sys.None},
-		{"four", shape4, sys.None},
+		{"four", shape2, sys.None},
 		{"five", NewModel, sys.None},
 	})
 
